@@ -1,4 +1,1 @@
-# Kattis
-# Kattis
-# Test
-发生是否
+Learn as a beginner.
